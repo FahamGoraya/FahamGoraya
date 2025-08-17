@@ -1,67 +1,65 @@
-# Hey, I'm Faham 👋
-
-🎓 Third-Year CS + Applied Statistics @ **University of Toronto**  
-💻 Passionate about **Full-Stack Engineering, AI, and Systems Design**  
-🚀 Building scalable apps, real-time systems, and data-driven platforms  
-
----
-
-## 🔗 Connect with Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fahamg.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faham-goraya)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faham.goraya@mail.utoronto.ca)  
+# 💫 About Me
+Hi, I’m **Faham Goraya**, a Computer Science & Applied Statistics student at the **University of Toronto**.  
+I’m passionate about **full-stack engineering, AI-driven solutions, and scalable cloud systems**.  
+I enjoy working on impactful projects that blend **software engineering** with **data-driven insights**.  
 
 ---
 
-## 💼 Experience
-
-**Software Engineer Intern** @ *S M Software Solutions* (Aug 2025 – Present)  
-- Engineered a **real-time support chat system** for 250+ users with React, Node.js & Socket.IO  
-- Implemented scalable messaging with auth + session handling, boosting efficiency by **30%**  
-- Optimized MongoDB schemas, reducing query latency by **45%**
-
-**Founding Engineer** @ *Pryzm CRM* (Jan 2025 – Jul 2025)  
-- Launched a CRM platform for 20+ users with Next.js, SQLite, and TypeORM  
-- Optimized DB schema & queries, cutting execution time by **35%**  
-- Improved performance with SSR & caching, lowering page load by **40%**
-
-**Full Stack Developer Intern** @ *Flymingos* (Apr 2025 – Aug 2025)  
-- Built a B2B AI matchmaking platform connecting **825+ companies**  
-- Designed an AI algorithm improving recommendations by **22%**  
-- Deployed with OnRender CI/CD, reducing onboarding by **50%**
+## 🌐 Socials
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fahamg.vercel.app/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faham-goraya) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faham.goraya@mail.utoronto.ca)  
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages:** Java, Python, C, C++, JavaScript, TypeScript, SQL, HTML, CSS, Assembly  
-**Frameworks:** React, Next.js, Node.js, Express.js, Spring Boot, WordPress, Firebase, MongoDB  
-**Tools:** Tailwind, JavaFX, NumPy, Pandas, PostgreSQL, SQLite, TypeORM, WebSockets, REST APIs  
-**Cloud/DevOps:** GCP, AWS S3, Docker, GitHub Actions, CI/CD  
-
----
-
-## 🚀 Featured Projects
-
-🔹 **[ReelPicks](http://reelpicks-dnc0.onrender.com)** – AI movie recommendation platform  
-- OpenAI semantic analysis + TMDB API for intelligent recommendations  
-- Node.js/Express backend with MongoDB & JWT auth  
-- UI improvements increased CTR by **25%** and return rate by **36%**
-
-🔹 **JavaFX Paint App** – AI-assisted drawing tool  
-- Built with JavaFX + MVC architecture  
-- Supports brushes, shapes, undo/redo, and custom formats  
-- Integrated Ollama 3 AI to **generate drawings from text prompts**
+# 💻 Tech Stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Experience
+- **Software Engineer Intern @ S M Software Solutions (2025–Present)**  
+  Engineered a real-time chat system for **250+ users** with React, Node.js & Socket.IO, cutting query latency by **45%**.  
 
-![Faham's GitHub stats](https://github-readme-stats.vercel.app/api?username=FahamGoraya&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FahamGoraya&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=FahamGoraya&theme=tokyonight&hide_border=true)  
+- **Founding Engineer @ Pryzm CRM (2025)**  
+  Launched a CRM platform for **20+ active users**, optimized DB schema (queries **35% faster**) and boosted load speeds by **40%**.  
+
+- **Full Stack Intern @ Flymingos (2025)**  
+  Built a B2B AI matchmaking platform connecting **825+ companies**, with sub-100ms retrieval & Stripe-powered subscriptions.  
 
 ---
 
-⭐️ From [Faham](https://github.com/FahamGoraya)
+# 📂 Featured Projects
+- 🔹 [**ReelPicks**](http://reelpicks-dnc0.onrender.com) — AI-powered movie recommendation platform (OpenAI + TMDB API)  
+- 🔹 **JavaFX Paint App** — Desktop paint app w/ AI-assisted artwork (JavaFX + Ollama 3)  
+
+---
+
+# ✨ Fun Stuff
+🌱 Currently learning **Distributed Systems & Cloud Architecture**  
+🎯 Goal for 2025: **Contribute to open-source projects**  
+⚡ Fun fact: My code editor tabs are always *way too full* 😅  
+
+---
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FahamGoraya/FahamGoraya/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FahamGoraya/FahamGoraya/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/FahamGoraya/FahamGoraya/output/github-snake.svg" />
+</picture>
