@@ -1,6 +1,6 @@
 # 💫 About Me
-Hi, I’m **Faham Goraya**, a Computer Science & Applied Statistics student at the **University of Toronto**.  
-I’m passionate about **full-stack engineering, AI-driven solutions, and scalable cloud systems**.  
+Hi, I'm **Faham Goraya**, a Computer Science & Applied Statistics student at the **University of Toronto**.  
+I'm passionate about **full-stack engineering, AI-driven solutions, and scalable cloud systems**.  
 I enjoy working on impactful projects that blend **software engineering** with **data-driven insights**.  
 
 ---
@@ -71,10 +71,4 @@ I enjoy working on impactful projects that blend **software engineering** with *
 
 ---
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FahamGoraya/FahamGoraya/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FahamGoraya/FahamGoraya/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/FahamGoraya/FahamGoraya/output/github-snake.svg" />
-</picture>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
